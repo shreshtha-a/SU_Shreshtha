@@ -768,3 +768,67 @@ D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>echo
 operable program or batch file.
 
 D:\SU_Shreshtha\Unit1\sprint1\day1>echo
+
+
+part 2
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>dir
+ Volume in drive D has no label.
+ Volume Serial Number is 2600-0149
+
+ Directory of D:\SU_Shreshtha\Unit1\sprint1\day1
+
+04-06-2026  03.22 PM    <DIR>          .
+04-06-2026  03.11 PM    <DIR>          ..
+04-06-2026  03.14 PM                 0 'SU_Shreshtha'
+04-06-2026  03.14 PM                 0 (c)
+04-06-2026  03.58 PM            34,913 mine.txt
+04-06-2026  03.14 PM                 0 The
+               4 File(s)         34,913 bytes
+               2 Dir(s)  158,236,385,280 bytes free
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   mine.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>git add .
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   mine.txt
+
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>git commit -m "added some changes to file"
+[main 43f8805] added some changes to file
+ 1 file changed, 769 insertions(+)
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>git status
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>git push origin main
+Enumerating objects: 11, done.
+Counting objects: 100% (11/11), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (6/6), 1.51 KiB | 1.51 MiB/s, done.
+Total 6 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/shreshtha-a/SU_Shreshtha.git
+   7783f9e..43f8805  main -> main
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>"(c)"
