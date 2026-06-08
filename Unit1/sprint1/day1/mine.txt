@@ -1,0 +1,834 @@
+
+D:\SU_Shreshtha>cd Unit1
+
+D:\SU_Shreshtha\Unit1>mkdir sprint1 sprint2 sprint3 sprint4
+
+D:\SU_Shreshtha\Unit1>cd sprint1
+
+D:\SU_Shreshtha\Unit1\sprint1>mkdir day1 day2
+
+D:\SU_Shreshtha\Unit1\sprint1>cd day1
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>echo note.txt
+note.txt
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>echo Microsoft Windows [Version 10.0.26200.8524]
+Microsoft Windows [Version 10.0.26200.8524]
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>(c) Microsoft Corporation. All rights reserved.
+Microsoft was unexpected at this time.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>C:\Users\Dell> /
+Access is denied.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>'/' is not recognized as an internal or external command,
+''' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>operable program or batch file.
+'operable' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>C:\Users\Dell>cd /
+'C:\Users\Dell' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>C:\>k:
+The system cannot find the path specified.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>The system cannot find the drive specified.
+'The' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>C:\>k
+'C:\' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>'k' is not recognized as an internal or external command,
+''k'' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>operable program or batch file.
+'operable' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>C:\>K:
+The system cannot find the path specified.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>The system cannot find the drive specified.
+'The' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>C:\>K
+'C:\' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>'K' is not recognized as an internal or external command,
+''K'' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>operable program or batch file.
+'operable' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>C:\>F:
+The system cannot find the path specified.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>The system cannot find the drive specified.
+'The' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>C:\>D:
+Access is denied.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\>>mkdir SU_Shreshtha
+'D:\' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>'SU_Shreshtha' is not recognized as an internal or external command,
+''SU_Shreshtha'' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>operable program or batch file.
+'operable' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\>mkdir SU_Shreshtha
+'D:\' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\>cd SU_Shreshtha
+'D:\' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha>mkdir Unit1
+'D:\SU_Shreshtha' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha>cd Unit1
+'D:\SU_Shreshtha' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1>mkdir sprint1 sprint2 sprint3 sprint4
+'D:\SU_Shreshtha\Unit1' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1>cd sprint1
+'D:\SU_Shreshtha\Unit1' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1>mkdir day1 day2
+'D:\SU_Shreshtha\Unit1\sprint1' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1>cd day1
+'D:\SU_Shreshtha\Unit1\sprint1' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>echo note.txt
+'D:\SU_Shreshtha\Unit1\sprint1\day1' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>note.txt
+'note.txt' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>notes.txt
+'D:\SU_Shreshtha\Unit1\sprint1\day1' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>echo notes.txt
+notes.txt
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>cd notes.text
+The system cannot find the path specified.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>cd notes.txt
+The directory name is invalid.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>echo
+ECHO is on.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>echo
+ECHO is on.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>Microsoft Windows [Version 10.0.26200.8524]
+'Microsoft' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>(c) Microsoft Corporation. All rights reserved.
+Microsoft was unexpected at this time.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>C:\Users\Dell> /
+Access is denied.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>'/' is not recognized as an internal or external command,
+''' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>operable program or batch file.
+'operable' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>C:\Users\Dell>cd /
+'C:\Users\Dell' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>C:\>k:
+The system cannot find the path specified.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>The system cannot find the drive specified.
+'The' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>C:\>k
+'C:\' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>'k' is not recognized as an internal or external command,
+''k'' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>operable program or batch file.
+'operable' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>C:\>K:
+The system cannot find the path specified.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>The system cannot find the drive specified.
+'The' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>C:\>K
+'C:\' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>'K' is not recognized as an internal or external command,
+''K'' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>operable program or batch file.
+'operable' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>C:\>F:
+The system cannot find the path specified.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>The system cannot find the drive specified.
+'The' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>C:\>D:
+Access is denied.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\>>mkdir SU_Shreshtha
+'D:\' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>'SU_Shreshtha' is not recognized as an internal or external command,
+''SU_Shreshtha'' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>operable program or batch file.
+'operable' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\>mkdir SU_Shreshtha
+'D:\' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\>cd SU_Shreshtha
+'D:\' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha>mkdir Unit1
+'D:\SU_Shreshtha' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha>cd Unit1
+'D:\SU_Shreshtha' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1>mkdir sprint1 sprint2 sprint3 sprint4
+'D:\SU_Shreshtha\Unit1' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1>cd sprint1
+'D:\SU_Shreshtha\Unit1' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1>mkdir day1 day2
+'D:\SU_Shreshtha\Unit1\sprint1' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1>cd day1
+'D:\SU_Shreshtha\Unit1\sprint1' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>echo note.txt
+'D:\SU_Shreshtha\Unit1\sprint1\day1' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>note.txt
+'note.txt' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>
+The syntax of the command is incorrect.
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>echo Microsoft Windows [Version 10.0.26200.8524]
+'D:\SU_Shreshtha\Unit1\sprint1\day1' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>Microsoft Windows [Version 10.0.26200.8524]
+'Microsoft' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>(c) Microsoft Corporation. All rights reserved.
+'D:\SU_Shreshtha\Unit1\sprint1\day1' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>Microsoft was unexpected at this time.
+'Microsoft' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>
+The syntax of the command is incorrect.
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>C:\Users\Dell> /
+Access is denied.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>Access is denied.
+'Access' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>'/' is not recognized as an internal or external command,
+The system cannot find the path specified.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>''' is not recognized as an internal or external command,
+''''' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>operable program or batch file.
+'operable' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>operable program or batch file.
+'D:\SU_Shreshtha\Unit1\sprint1\day1' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>'operable' is not recognized as an internal or external command,
+''operable'' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>operable program or batch file.
+'operable' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>
+The syntax of the command is incorrect.
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>C:\Users\Dell>cd /
+'D:\SU_Shreshtha\Unit1\sprint1\day1' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>'C:\Users\Dell' is not recognized as an internal or external command,
+The filename, directory name, or volume label syntax is incorrect.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>operable program or batch file.
+'operable' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>
+The syntax of the command is incorrect.
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>C:\>k:
+The system cannot find the path specified.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>The system cannot find the path specified.
+'The' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>The system cannot find the drive specified.
+'D:\SU_Shreshtha\Unit1\sprint1\day1' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>'The' is not recognized as an internal or external command,
+''The'' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>operable program or batch file.
+'operable' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>
+The syntax of the command is incorrect.
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>C:\>k
+'D:\SU_Shreshtha\Unit1\sprint1\day1' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>'C:\' is not recognized as an internal or external command,
+The filename, directory name, or volume label syntax is incorrect.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>operable program or batch file.
+'operable' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>'k' is not recognized as an internal or external command,
+'D:\SU_Shreshtha\Unit1\sprint1\day1' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>''k'' is not recognized as an internal or external command,
+'''k''' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>operable program or batch file.
+'operable' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>operable program or batch file.
+'D:\SU_Shreshtha\Unit1\sprint1\day1' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>'operable' is not recognized as an internal or external command,
+''operable'' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>operable program or batch file.
+'operable' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>
+The syntax of the command is incorrect.
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>C:\>K:
+The system cannot find the path specified.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>The system cannot find the path specified.
+'The' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>The system cannot find the drive specified.
+'D:\SU_Shreshtha\Unit1\sprint1\day1' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>'The' is not recognized as an internal or external command,
+''The'' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>operable program or batch file.
+'operable' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>
+The syntax of the command is incorrect.
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>C:\>K
+'D:\SU_Shreshtha\Unit1\sprint1\day1' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>'C:\' is not recognized as an internal or external command,
+The filename, directory name, or volume label syntax is incorrect.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>operable program or batch file.
+'operable' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>'K' is not recognized as an internal or external command,
+'D:\SU_Shreshtha\Unit1\sprint1\day1' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>''K'' is not recognized as an internal or external command,
+'''K''' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>operable program or batch file.
+'operable' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>operable program or batch file.
+'D:\SU_Shreshtha\Unit1\sprint1\day1' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>'operable' is not recognized as an internal or external command,
+''operable'' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>operable program or batch file.
+'operable' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>
+The syntax of the command is incorrect.
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>C:\>F:
+The system cannot find the path specified.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>The system cannot find the path specified.
+'The' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>The system cannot find the drive specified.
+'D:\SU_Shreshtha\Unit1\sprint1\day1' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>'The' is not recognized as an internal or external command,
+''The'' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>operable program or batch file.
+'operable' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>
+The syntax of the command is incorrect.
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>C:\>D:
+Access is denied.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>Access is denied.
+'Access' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>
+The syntax of the command is incorrect.
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>D:\>>mkdir SU_Shreshtha
+'D:\SU_Shreshtha\Unit1\sprint1\day1' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>'D:\' is not recognized as an internal or external command,
+The filename, directory name, or volume label syntax is incorrect.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>operable program or batch file.
+'operable' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>'SU_Shreshtha' is not recognized as an internal or external command,
+'D:\SU_Shreshtha\Unit1\sprint1\day1' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>''SU_Shreshtha'' is not recognized as an internal or external command,
+'''SU_Shreshtha''' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>operable program or batch file.
+'operable' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>operable program or batch file.
+'D:\SU_Shreshtha\Unit1\sprint1\day1' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>'operable' is not recognized as an internal or external command,
+''operable'' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>operable program or batch file.
+'operable' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>
+The syntax of the command is incorrect.
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>D:\>mkdir SU_Shreshtha
+'D:\SU_Shreshtha\Unit1\sprint1\day1' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>'D:\' is not recognized as an internal or external command,
+The filename, directory name, or volume label syntax is incorrect.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>operable program or batch file.
+'operable' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>
+The syntax of the command is incorrect.
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>D:\>cd SU_Shreshtha
+'D:\SU_Shreshtha\Unit1\sprint1\day1' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>'D:\' is not recognized as an internal or external command,
+The filename, directory name, or volume label syntax is incorrect.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>operable program or batch file.
+'operable' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>
+The syntax of the command is incorrect.
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha>mkdir Unit1
+'D:\SU_Shreshtha\Unit1\sprint1\day1' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>'D:\SU_Shreshtha' is not recognized as an internal or external command,
+The filename, directory name, or volume label syntax is incorrect.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>operable program or batch file.
+'operable' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>
+The syntax of the command is incorrect.
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha>cd Unit1
+'D:\SU_Shreshtha\Unit1\sprint1\day1' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>'D:\SU_Shreshtha' is not recognized as an internal or external command,
+The filename, directory name, or volume label syntax is incorrect.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>operable program or batch file.
+'operable' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>
+The syntax of the command is incorrect.
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1>mkdir sprint1 sprint2 sprint3 sprint4
+'D:\SU_Shreshtha\Unit1\sprint1\day1' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>'D:\SU_Shreshtha\Unit1' is not recognized as an internal or external command,
+The filename, directory name, or volume label syntax is incorrect.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>operable program or batch file.
+'operable' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>
+The syntax of the command is incorrect.
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1>cd sprint1
+'D:\SU_Shreshtha\Unit1\sprint1\day1' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>'D:\SU_Shreshtha\Unit1' is not recognized as an internal or external command,
+The filename, directory name, or volume label syntax is incorrect.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>operable program or batch file.
+'operable' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>
+The syntax of the command is incorrect.
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1>mkdir day1 day2
+'D:\SU_Shreshtha\Unit1\sprint1\day1' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>'D:\SU_Shreshtha\Unit1\sprint1' is not recognized as an internal or external command,
+The filename, directory name, or volume label syntax is incorrect.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>operable program or batch file.
+'operable' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>
+The syntax of the command is incorrect.
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1>cd day1
+'D:\SU_Shreshtha\Unit1\sprint1\day1' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>'D:\SU_Shreshtha\Unit1\sprint1' is not recognized as an internal or external command,
+The filename, directory name, or volume label syntax is incorrect.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>operable program or batch file.
+'operable' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>
+The syntax of the command is incorrect.
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>echo note.txt
+'D:\SU_Shreshtha\Unit1\sprint1\day1' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>'D:\SU_Shreshtha\Unit1\sprint1\day1' is not recognized as an internal or external command,
+The filename, directory name, or volume label syntax is incorrect.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>operable program or batch file.
+'operable' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>note.txt
+'D:\SU_Shreshtha\Unit1\sprint1\day1' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>'note.txt' is not recognized as an internal or external command,
+''note.txt'' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>operable program or batch file.
+'operable' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>
+The syntax of the command is incorrect.
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>notes.txt
+'D:\SU_Shreshtha\Unit1\sprint1\day1' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>'D:\SU_Shreshtha\Unit1\sprint1\day1' is not recognized as an internal or external command,
+The filename, directory name, or volume label syntax is incorrect.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>operable program or batch file.
+'operable' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>echo notes.txt
+'D:\SU_Shreshtha\Unit1\sprint1\day1' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>notes.txt
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>cd notes.text
+'D:\SU_Shreshtha\Unit1\sprint1\day1' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>The system cannot find the path specified.
+'The' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>cd notes.txt
+'D:\SU_Shreshtha\Unit1\sprint1\day1' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>The directory name is invalid.
+'The' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>
+D:\SU_Shreshtha\Unit1\sprint1\day1>D:\SU_Shreshtha\Unit1\sprint1\day1>echo
+'D:\SU_Shreshtha\Unit1\sprint1\day1' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>echo
+
+
+part 2
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>dir
+ Volume in drive D has no label.
+ Volume Serial Number is 2600-0149
+
+ Directory of D:\SU_Shreshtha\Unit1\sprint1\day1
+
+04-06-2026  03.22 PM    <DIR>          .
+04-06-2026  03.11 PM    <DIR>          ..
+04-06-2026  03.14 PM                 0 'SU_Shreshtha'
+04-06-2026  03.14 PM                 0 (c)
+04-06-2026  03.58 PM            34,913 mine.txt
+04-06-2026  03.14 PM                 0 The
+               4 File(s)         34,913 bytes
+               2 Dir(s)  158,236,385,280 bytes free
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   mine.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>git add .
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   mine.txt
+
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>git commit -m "added some changes to file"
+[main 43f8805] added some changes to file
+ 1 file changed, 769 insertions(+)
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>git status
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>git push origin main
+Enumerating objects: 11, done.
+Counting objects: 100% (11/11), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (6/6), 1.51 KiB | 1.51 MiB/s, done.
+Total 6 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/shreshtha-a/SU_Shreshtha.git
+   7783f9e..43f8805  main -> main
+
+D:\SU_Shreshtha\Unit1\sprint1\day1>"(c)"

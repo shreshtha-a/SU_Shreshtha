@@ -1,0 +1,72 @@
+
+D:\>cd Downloads
+The system cannot find the path specified.
+
+D:\>cd SU_Shreshtha
+
+D:\SU_Shreshtha>cd sprint
+The system cannot find the path specified.
+
+D:\SU_Shreshtha>dir
+ Volume in drive D has no label.
+ Volume Serial Number is 2600-0149
+
+ Directory of D:\SU_Shreshtha
+
+04-06-2026  03.41 PM    <DIR>          .
+04-06-2026  03.09 PM    <DIR>          Unit1
+               0 File(s)              0 bytes
+               2 Dir(s)  158,236,368,896 bytes free
+
+D:\SU_Shreshtha>sprint
+'sprint' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha>cd sprint
+The system cannot find the path specified.
+
+D:\SU_Shreshtha>cd sprint1
+The system cannot find the path specified.
+
+D:\SU_Shreshtha>cd unit
+The system cannot find the path specified.
+
+D:\SU_Shreshtha>cd unit1
+
+D:\SU_Shreshtha\Unit1>cd sprint1
+
+D:\SU_Shreshtha\Unit1\sprint1>mdir
+'mdir' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1>mdir day2
+'mdir' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1>mkdir day2
+A subdirectory or file day2 already exists.
+
+D:\SU_Shreshtha\Unit1\sprint1>cd day2
+
+D:\SU_Shreshtha\Unit1\sprint1\day2>git.txt
+'git.txt' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day2>mkdir git.txt
+
+D:\SU_Shreshtha\Unit1\sprint1\day2>git.txt
+'git.txt' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day2>cd git.txt
+
+D:\SU_Shreshtha\Unit1\sprint1\day2\git.txt>echo
+ECHO is on.
+
+D:\SU_Shreshtha\Unit1\sprint1\day2\git.txt>"notes for today"
+'"notes for today"' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\SU_Shreshtha\Unit1\sprint1\day2\git.txt>echo >> " notes for today"
+
+D:\SU_Shreshtha\Unit1\sprint1\day2\git.txt>^X
